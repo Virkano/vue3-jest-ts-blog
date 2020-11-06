@@ -1,2 +1,5 @@
-# vue3-jest-ts-blog
-🎯 总结vue3.0新的知识点做的一个简单博客
+# vue3-jest-ts-blog 🎉
+
+#[DEMO](https://knaovue3blog.netlify.app/)
+
+Vue3.0 做的一个博客项目（Vue / vuex / jest / mock / ts ）
